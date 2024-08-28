@@ -24,6 +24,10 @@ torchaudio = "^2.4.0"
 jupyterlab-code-formatter = "^3.0.2"
 black = "^24.8.0"
 isort = "^5.13.2"
+pillow = "^10.4.0"
+webcolors = "^24.8.0"
+tkinterdnd2 = "^0.4.2"
+kaleido = "0.2.1"
 
 
 [build-system]
